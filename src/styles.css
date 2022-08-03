@@ -8,6 +8,17 @@ body {
 }
 
 .card {
-    border: 5px cornflowerblue solid;
+    width: 400px;
+    /* centers card in middle of page */
+    margin-left: auto;
+    margin-right: auto;
+
     padding: 20px;
+    display: flex;
+    justify-content: space-around;
+}
+
+.border-deco {
+    border: 3px cornflowerblue dotted;
+
 }
