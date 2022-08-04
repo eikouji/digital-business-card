@@ -8,4 +8,4 @@ An app to act as my digital business card. A project to practice HTML, CSS best 
 
 
 # URL of App #
-
+https://eikouji.github.io/digital-business-card/
