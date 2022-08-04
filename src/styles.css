@@ -46,8 +46,11 @@ body {
 
     font-size: 12px;
     font-weight: bold;
+    color: #003049;
 
     background-color: #ffdd9a;
+
+    border: 2px double #003049;
 }
 
 .linktree-btn:hover{
